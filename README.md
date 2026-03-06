@@ -3,9 +3,6 @@
 Electronics and Communication Engineering Student
 Saintgits College of Engineering, Kerala
 
-Email: [nikheth54@gmail.com](mailto:nikheth54@gmail.com)
-LinkedIn: https://linkedin.com/in/nikheth-binu-533380256
-
 ---
 
 ## About Me
@@ -114,10 +111,7 @@ Software Development for Embedded Platforms
 
 ---
 
-## GitHub Statistics
+##Connect With Me
 
-https://github-readme-stats.vercel.app/api?username=nikhethbinu&show_icons=true
-
----
-
-I am interested in opportunities where I can contribute to engineering solutions, work collaboratively in technical teams, and continuously expand my knowledge in emerging technologies.
+📧 Email: nikheth54@gmail.com
+🔗 LinkedIn: https://linkedin.com/in/nikheth-binu-533380256
