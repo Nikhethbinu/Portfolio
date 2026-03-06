@@ -112,7 +112,7 @@ Software Development for Embedded Platforms
 
 ---
 
-##Connect With Me
+## Connect With Me
 
  Email: nikheth54@gmail.com
  
