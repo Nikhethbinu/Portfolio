@@ -1,6 +1,7 @@
 # Nikheth Binu
 
 Electronics and Communication Engineering Student
+
 Saintgits College of Engineering, Kerala
 
 ---
@@ -113,5 +114,6 @@ Software Development for Embedded Platforms
 
 ##Connect With Me
 
-📧 Email: nikheth54@gmail.com
-🔗 LinkedIn: https://linkedin.com/in/nikheth-binu-533380256
+ Email: nikheth54@gmail.com
+ 
+ LinkedIn: https://linkedin.com/in/nikheth-binu-533380256
